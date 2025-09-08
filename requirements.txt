@@ -1,0 +1,10 @@
+torch
+numpy
+matplotlib
+tqdm
+PyYAML
+tensorflow
+pandas
+scikit-learn
+sentencepiece
+ipykernel  
