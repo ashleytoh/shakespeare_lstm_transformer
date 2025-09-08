@@ -1,10 +1,27 @@
-torch
-numpy
-matplotlib
-tqdm
-PyYAML
-tensorflow
-pandas
-scikit-learn
-sentencepiece
-ipykernel  
+# PyTorch Requirements for Windows ARM64
+# Note: PyTorch has limited ARM64 support. Consider these alternatives:
+
+# Option 1: Use PyTorch Nightly (experimental ARM64 support)
+# pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
+
+# Option 2: Use CPU emulation with x64 Python environment
+# Install x64 Python and create x64 virtual environment instead
+
+# Option 3: Use alternative ML libraries (uncomment if needed)
+# numpy>=1.21.0
+# scikit-learn>=1.0.0
+# tensorflow>=2.10.0  # Has better ARM64 support
+
+# Core dependencies that work on ARM64
+numpy>=1.21.0
+matplotlib>=3.5.0
+tqdm>=4.62.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+ipykernel>=6.0.0
+
+# YAML support
+PyYAML>=6.0
+
+# Optional: TensorFlow has better ARM64 support than PyTorch
+# tensorflow>=2.10.0
