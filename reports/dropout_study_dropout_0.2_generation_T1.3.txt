@@ -1,0 +1,41 @@
+Model: dropout_study_dropout_0.2
+Temperature: 1.3
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+An G'our of obkern? chelless o',
+Some thou-poud make the mony: troBk, batime.
+Ahard of, spake, to truthest torment: when thou muss?
+Yandle yet pardon.
+Yant's day upon Ro:: of, nlow's king,--
+Turn of Metence would do medted breath,
+We die.
+
+QUEEN ELIZABETH:
+On, and well do,--. a llad,
+Multiem. Son I I our grows is,
+We is to ambed your house! sir!
+
+BUCKINGHAM:
+In After, I had arm again, at the wolm,
+No stok' cclearies' placeire so temely brow,
+My look ye smake. When Camillo, God's worts?
+
+KING RICHARD III:
+Return for queen, therefore down, nurly, brother
+How who is, if the keis most step-kmonest,
+For sory Rome on; and thereo'll tapI here,
+Fattabcoward wish let him up far the gasdested is
+King stawn, no hent, the wifes ip do in remains;
+upenedfess honour: if thou waw'st I: Termock
+He itguld us by Edward and good and precious:
+To my love.
+
+Chistian:
+This is't, yet, petili's lord, so it one in
+God at eatard and her nace and the king.
+And queen indeatpedly thurdom.
+
+BUCKINGHAM:
+Our together

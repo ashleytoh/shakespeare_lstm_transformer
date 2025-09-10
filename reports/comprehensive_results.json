@@ -1,0 +1,62 @@
+{
+  "dropout_study": [
+    {
+      "experiment_name": "dropout_0.0",
+      "config": {
+        "dropout": 0.0,
+        "label": "dropout_0.0"
+      },
+      "final_train_loss": 1.3504018455577058,
+      "final_val_loss": 1.4704020236855122,
+      "test_loss": 1.725327140154439,
+      "test_perplexity": 5.614357411050266,
+      "model_params": 280897,
+      "training_time": 6274.4088451862335,
+      "sample_generation": "HAMLET:\nFor this shad Blopbur'd will not leave you hope to see\nThe orces with shame entreat his dream; is thou art\nmarried in the Valia masters, than the world\nDo make me welcome.\n\nFirst Citizen:\nHeav"
+    },
+    {
+      "experiment_name": "dropout_0.2",
+      "config": {
+        "dropout": 0.2,
+        "label": "dropout_0.2"
+      },
+      "final_train_loss": 1.4270828291976867,
+      "final_val_loss": 1.4816517959916633,
+      "test_loss": 1.7160644885729976,
+      "test_perplexity": 5.562593679299883,
+      "model_params": 280897,
+      "training_time": 6540.963143348694,
+      "sample_generation": "HAMLET:\nWhat think, that sir, thou wert Hank of cause with my, in a\nDuken and man was erar-'A man.\n\nVOLUMNIA:\nYour slander clearness, bony with an obston?\nAnd I send what would be his hoise was your p"
+    }
+  ],
+  "context_length_study": [
+    {
+      "experiment_name": "seq_128",
+      "config": {
+        "sequence_length": 128,
+        "label": "seq_128"
+      },
+      "final_train_loss": 1.3551174732794329,
+      "final_val_loss": 1.4718799760776875,
+      "test_loss": 1.7158716130065041,
+      "test_perplexity": 5.5615208943531425,
+      "model_params": 280897,
+      "training_time": 6220.6373834609985,
+      "sample_generation": "HAMLET:\nWhy, happy humas another.\n\nDUCHESS OF YORK:\n'Tis there was one leave on with voices.\n\nSICINIUS:\nNay, said now,\nOf the seems we awar: our melitions then,\nTo speak know unliss forth, the cause o"
+    },
+    {
+      "experiment_name": "seq_256",
+      "config": {
+        "sequence_length": 256,
+        "label": "seq_256"
+      },
+      "final_train_loss": 1.3083742299073053,
+      "final_val_loss": 1.4455334656540004,
+      "test_loss": 1.7226788875700414,
+      "test_perplexity": 5.599508844582029,
+      "model_params": 280897,
+      "training_time": 12246.730501651764,
+      "sample_generation": "HAMLET:\nThe knowns your journey Rehing than the sea,\nLet us be to your wife!\n\nPERDITA:\nIt were sister.\n\nBRUTUS:\nThat is not woon's son.\n\nCAPULET:\nFor thou dost lay the month.\n\nAUTOLYCUS:\nI am thound b"
+    }
+  ]
+}

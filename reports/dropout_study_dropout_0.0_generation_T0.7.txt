@@ -1,0 +1,38 @@
+Model: dropout_study_dropout_0.0
+Temperature: 0.7
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+
+Third Servingman:
+The gods content this discover sweet sembling of his
+fall in that art thou in justice to off hands,
+That you and the king of that tongue that
+The beats of his eyes to come on a doubbere.
+
+LUCIO:
+I have adverting to this hand since it is at the centure
+Sit now, no report in him for me and their sight
+To see him in the time and hear him with piecement,
+And fly the king; I would not in the hand
+Whose soul of the mind bring them so much already.
+
+CAMILLO:
+The pleasure should destroy the God for his woe
+That to this into the cares both, and so do from foul
+the royal war and in the fight of his true knowledge,
+And make him to the hour with his sight of the
+creditance thus to stand well not for the shame,
+And help the friends of this crown to my soul.
+
+SICINIUS:
+The course of words be vile plant.
+
+HERMIONE:
+Whither farewell: but that is the mounting
+Was the beat banishment bears and there's some
+That happy lodge of banishment of them.
+
+CLARENCE:
+Help the sunsertay shall ar

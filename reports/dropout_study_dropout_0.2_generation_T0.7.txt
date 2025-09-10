@@ -1,0 +1,34 @@
+Model: dropout_study_dropout_0.2
+Temperature: 0.7
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+The brother had hold all the country sing silent
+My brother of a grace hath for us blood:
+Then comes this best in both me but off all accuse
+A victory of the dease that this sword,
+And not one dugling preserved on she with us:
+Be gone like no honour: she shall be concent?
+
+MISTRESS OVERDONE:
+Some world! who lives as he did a one of the world,
+Than I have shold him gracious words of his did
+Whom was bruck the throw that warrant with a deserved
+As if you dread to remain the sheep,
+And rulous are that a love hath such thought the death,
+That hopes upon the own late and rest,
+My lordship as the envy of suffers as the
+carrered now.
+
+LADY CAPULET:
+No, but we are much straight to not ourselves,
+But come them unto their father should place
+With in this person, and I have been no more,
+Or the partor of a life of brother and hearts;
+To the refter she that can bemest on me
+Thy mortal loved man of it false hath seen,
+That you shall be the death; 'tis a king.
+
+KING RICHARD III:
+Ay, when thou the n

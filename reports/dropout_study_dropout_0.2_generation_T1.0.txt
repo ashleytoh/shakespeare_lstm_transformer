@@ -1,0 +1,39 @@
+Model: dropout_study_dropout_0.2
+Temperature: 1.0
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+What think, that sir, thou wert Hank of cause with my, in a
+Duken and man was erar-'A man.
+
+VOLUMNIA:
+Your slander clearness, bony with an obston?
+And I send what would be his hoise was your part shoe
+not better to ane doth would renown,
+My force man that did I seated the false,
+Some nothing poison envious Lamor gods there:
+Indeed-rike with the orgalmets and but one is ons,
+Verforiia, stand his exide, thou did have
+That Frorf thou done: all the posest Viurcius lords.
+Sweet parties, well out and shamile her soldier.
+Is rich from my pushor ar:
+Which is it it go bless of my scarwer.
+
+ROMEO:
+Make, it but my fish, revenge it prick?
+
+DUKE OF YORK:
+Are I do my husband, now and my some.
+
+COMINIUS:
+As heavy, who hope, or is laly, kill him,
+Yet how borne, inkersame with that, that thou,
+Command life; but and be sleep, be your condless.'
+3 KING HENRY VI
+Some services the warronion, and then, so in
+Seal of city be one worthy brights, and by the pericess,
+By game of the accorciment.
+
+SICINIUS:
+Not
