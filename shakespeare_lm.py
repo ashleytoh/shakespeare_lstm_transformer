@@ -1,19 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Shakespeare Language Model - DSA4213 Assignment 2
-Optimized Training Pipeline with Comprehensive Evaluation and Ablation Studies
 
-Features:
-- LSTM and Transformer models for character-level language modeling
-- Comprehensive evaluation with perplexity metrics
-- Text generation with multiple temperatures (0.7, 1.0, 1.3)
-- Ablation studies: dropout (0.0 vs 0.2), context length (128 vs 256)
-- Training time recording and performance optimization
-- All outputs saved to model-specific /reports_{model_type} folder
-
-@author: Ashley Toh 
-"""
 
 import torch
 import torch.nn as nn
@@ -741,7 +728,7 @@ def save_comprehensive_results(ablation_results):
 def main():
     """Main function - complete pipeline with comprehensive evaluation and ablation studies"""
     print("=" * 80)
-    print("SHAKESPEARE LANGUAGE MODEL - DSA4213 Assignment 2")
+    print("DSA4213 Assignment 2")
     print("=" * 80)
     print("Configuration:")
     print(f"  Model: {MODEL_TYPE}")
@@ -774,8 +761,8 @@ def main():
     val_data = data[n_train:n_train + n_val]
     test_data = data[n_train + n_val:]
     
-    # Calculate what the splits would be with full dataset for consistent reporting
-    full_dataset_size = int(len(data) / 0.7)  # Reverse the 70% reduction
+    # Calculate splits
+    full_dataset_size = int(len(data))
     reported_train = int(full_dataset_size * TRAIN_SPLIT)
     reported_val = int(full_dataset_size * VAL_SPLIT)
     reported_test = full_dataset_size - reported_train - reported_val
