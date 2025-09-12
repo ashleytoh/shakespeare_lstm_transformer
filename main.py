@@ -1,20 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Shakespeare Language Model - DSA4213 Assignment 2
-Refactored Training Pipeline with Comprehensive Evaluation and Ablation Studies
-
-Features:
-- LSTM and Transformer models for character-level language modeling
-- Comprehensive evaluation with perplexity metrics
-- Text generation with multiple temperatures (0.7, 1.0, 1.3)
-- Ablation studies: dropout (0.0 vs 0.2), context length (128 vs 256)
-- Training time recording and performance optimization
-- All outputs saved to model-specific /reports_{model_type} folder
-
-@author: Ashley Toh 
-"""
-
 import torch
 import os
 
