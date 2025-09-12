@@ -1,0 +1,62 @@
+{
+  "dropout_study": [
+    {
+      "experiment_name": "dropout_0.0",
+      "config": {
+        "dropout": 0.0,
+        "label": "dropout_0.0"
+      },
+      "final_train_loss": 1.4950737034665806,
+      "final_val_loss": 1.5498734720803182,
+      "test_loss": 1.82015335231746,
+      "test_perplexity": 6.1728049912551795,
+      "model_params": 429889,
+      "training_time": 2128.6448879241943,
+      "sample_generation": "HAMLET:\nO:\nSir judgment it is I sever, I may cause,\nAnd codemony.\n\nGLOUCESTER:\nAnd:\nI would no knight concape to report, I will taked.\n\nCLIFFORD:\nI be came not be betted him, for dead?\n\nCAPULET:\nI am "
+    },
+    {
+      "experiment_name": "dropout_0.2",
+      "config": {
+        "dropout": 0.2,
+        "label": "dropout_0.2"
+      },
+      "final_train_loss": 1.619142436222037,
+      "final_val_loss": 1.6086109674304998,
+      "test_loss": 1.8558339451977965,
+      "test_perplexity": 6.3970307999006515,
+      "model_params": 429889,
+      "training_time": 2501.2577209472656,
+      "sample_generation": "HAMLET:\nWhat thou for valoural you must say me\nAnd call it oncell be him hours unded plation.\nSir, I'll I had she full thee! sir, it can\nWhich rest go; right the brother other.\nLet thy oked that was m"
+    }
+  ],
+  "context_length_study": [
+    {
+      "experiment_name": "seq_128",
+      "config": {
+        "sequence_length": 128,
+        "label": "seq_128"
+      },
+      "final_train_loss": 1.4833570480415073,
+      "final_val_loss": 1.5291261987401805,
+      "test_loss": 1.777293507932523,
+      "test_perplexity": 5.913829008046232,
+      "model_params": 429889,
+      "training_time": 1877.050035238266,
+      "sample_generation": "HAMLET:\nWith a Richard, to him true is last suffice,\nAs grave to see that she perposeth to the count.\n\nKING LEWIS XI:\nWhen Henry! husbands, see my friend? wherefore!\n\nRICHARD III:\nThe this joy, where "
+    },
+    {
+      "experiment_name": "seq_256",
+      "config": {
+        "sequence_length": 256,
+        "label": "seq_256"
+      },
+      "final_train_loss": 1.5002011923400025,
+      "final_val_loss": 1.5386650085449218,
+      "test_loss": 1.7909195053166356,
+      "test_perplexity": 5.9949623325570975,
+      "model_params": 446273,
+      "training_time": 4931.932161092758,
+      "sample_generation": "HAMLET:\nI hope on, to the hands help to might we will spirit for\nNear my olders their days, cared with a scape\nHave no barked to-morrow the Coriolanus.\n\nHENRY BOLINGBROKE:\n\nISABELLA:\nDistry to all hel"
+    }
+  ]
+}

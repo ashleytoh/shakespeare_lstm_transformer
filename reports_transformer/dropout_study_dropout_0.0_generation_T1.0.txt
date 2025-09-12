@@ -1,0 +1,46 @@
+Model: dropout_study_dropout_0.0
+Temperature: 1.0
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+O:
+Sir judgment it is I sever, I may cause,
+And codemony.
+
+GLOUCESTER:
+And:
+I would no knight concape to report, I will taked.
+
+CLIFFORD:
+I be came not be betted him, for dead?
+
+CAPULET:
+I am news, tribunes, light beging place,
+I would not show pray to you are is happent, like,
+Precious belling you off; that let to detere,
+And shall is name, appeap one mysmen?
+
+CAMILLO:
+The son she impromise the was.
+
+GREGORY:
+A witness, let my confounden with him;
+Good you have more is with'st curse:
+O, friends be a
+weary of this pothers and from mine,
+He want of heir maids up; have of be discees,
+Let this groan: if me can with thou given not removed,
+By never lukes and me loss, his no
+in the earth out perfort-hrims to his mine:
+My for prither fairs we woman!
+Away a words fives; like in the had and unnature
+With may sea, to mild us; dare-that thou loved
+Is do not thou the little alto--zad my drum.
+
+BENVOLIO:
+What.
+
+GLOUCESTER:
+Thou, sir, my life's discaract your peril,
+Counted and back, which throw n

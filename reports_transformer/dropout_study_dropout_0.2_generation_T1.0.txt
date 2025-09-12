@@ -1,0 +1,37 @@
+Model: dropout_study_dropout_0.2
+Temperature: 1.0
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+What thou for valoural you must say me
+And call it oncell be him hours unded plation.
+Sir, I'll I had she full thee! sir, it can
+Which rest go; right the brother other.
+Let thy oked that was make highness, helper, my and poon traist;
+So, my spokes thou good sir, nor foult.
+The have discred misted my gracious,
+That and made that with on glorn avant for a talker?
+
+MERCUTIUS:
+So the had for my cold marriagent the not;
+He great was fair, as he hath him cordenion.
+
+KING RICHARD III:
+I preprept, the was, both, the and roet thou make blood proclace,
+On it it, where country my truth follows,
+Her I sayer him and which seize mother mother for her very
+To can and stand vurtuous fair like love.
+Comman, for bring let would, my good
+That comes to part he gods grave sand her
+In; I tell-not. God England, I am what the king,
+And age, as patied my son.
+
+RIVERS:
+
+Second Marcius, which is hard
+thou straite I see to know shower'd lives!
+
+GLOUCESTER:
+What's hold but doth hope sir, thus it ake,
+That unforta

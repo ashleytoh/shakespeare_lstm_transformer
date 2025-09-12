@@ -1,0 +1,34 @@
+Model: dropout_study_dropout_0.2
+Temperature: 0.7
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+When the said, and I most be fould to be country:
+Have that woold would of my unleast,
+What his for see were in their desires to more.
+
+GLOUCESTER:
+Against thy earth, sir, to the satch good his country good before
+The courter souls are the charge and brother'd
+Stand me would to that to shall see's brance
+And royal be swear it down below his not me,
+Whose be him heart that bear and your to my vented,
+He reseem the had woes of some was do longive to the little.
+
+POLIXENES:
+Not what no more prince and stand his with we have your senge
+Are their spection this of the commons,
+Ever a villain the bosom to his thy breather;
+Some the day of our the not like live a pray,
+And not is for of the not with deneman.
+
+CAMILLO:
+If the are is not me and the bless so,
+And thou be sight his doubt the name.
+
+LEONTES:
+Now, sir, that that not so the day days good have brother
+When of, who dreath it this bown that you world
+That when you do the to his grace. God you should the honours,
+How my enver: so he's d

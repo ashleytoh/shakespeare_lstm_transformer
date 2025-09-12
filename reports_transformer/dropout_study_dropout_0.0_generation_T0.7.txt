@@ -1,0 +1,36 @@
+Model: dropout_study_dropout_0.0
+Temperature: 0.7
+Prompt: HAMLET:
+Generated Length: 1007 characters
+--------------------------------------------------
+HAMLET:
+Fair that thou dear in dead; be not and ready, as with realm that you heart,
+That with not as he world her here, and for the rest.
+
+Second Citizen:
+Yet, sir, wife well and look the say.
+
+KING RICHARD III:
+Marcius, shall be so much in entreat consul part:
+But the people, if you must what confess of his vantage of slain.
+
+DUKE OF YORK:
+What thou then sun of the prophecians of her son
+The from his woman, if the prove to his world.
+
+CORIOLANUS:
+Why, no poor hot shall comes and one of highness;
+And in out me to last but this prince and can that ignorant;
+The should such about as long, I die.
+
+LEONTES:
+I will not thee, heart you have be such of mine.
+
+QUEEN MARGARET:
+The hast Murderer: no more the for me speak that treet:
+Who they stand, the she one sour drums and with of the since,
+And I emprove of power the prove the thee:
+What is soul he heart of their and the state,
+And for a death. I cannot the see the male
+He first from our swift and love instruct's death,
+And all the state deter of t
