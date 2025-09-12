@@ -156,10 +156,3 @@ pip install matplotlib>=3.5.0
 pip install tqdm>=4.62.0
 pip install numpy>=1.21.0
 ```
-## Author
-
-Ashley Toh - DSA4213 Assignment 2
-
-## License
-
-Academic use only - National University of Singapore
