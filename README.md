@@ -1,4 +1,4 @@
-# DSA4213 Assignment 2
+# Shakespeare Text Generation: LSTM vs. Transformer Language Models
 
 This repository implements and compares LSTM and Transformer language models for character-level text generation on Shakespeare's corpus.
 
